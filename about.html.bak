@@ -170,13 +170,13 @@ header ul li a {
 <body>
   <header>
         <ul>
-            <li><a href="shiva1.html">Home</a></li>
-            <li><a href="about.html">Agents</a></li>
-            <li><a href="property.html">Property</a></li>
+            <li><a href="mohit1.html">Home</a></li>
+            <li><a href="men.html">Men</a></li>
+            <li><a href="women.html">Women</a></li>
             <li><a href="contact.html">Contact</a></li>
-            <li><a href="blog.html">Blog</a></li>
+            <li><a href="about.html">About</a></li>
         </ul>
-        <center><img class="photo" src="logo.jpg" alt="error"></center>
+        <center><img class="photo" src="file:///C:/Users/ASUS/Documents/shiva/19.jpg" alt="error"></center>
         <div class="want">
             <input type="search" placeholder="search">
             <button >search</button>
@@ -184,41 +184,42 @@ header ul li a {
     </header>
 <div class="about-section">
   <h1>About</h1>
-  <p>For real estate we need agents.</p>
-  <p>For property sell and buy we need a agents </p>
+  <p>Lighter weight and comfortable shoes</p>
+  <p>with a awesome quality with brand product </p>
 </div>
 
-<h2 style="text-align:center">Agents</h2>
+<h2 style="text-align:center">About</h2>
 <div class="row">
   <div class="column">
     <div class="card">
-      <img src="a1.jpg" alt="Jane" style="width:100%">
+      <img src="56.png" alt="Bata" style="width:100%">
       <div class="container">
-        <h2>Jane Doe</h2>
-        <p>jane@example.com</p>
-        <p><button class="button">Contact</button></p>
+        <h2>Bata</h2>
+      
+       
+      </div>
+    </div>
+  </div>
+
+
+  <div class="column">
+    <div class="card">
+      <img src="67.jpg" alt="Mike" style="width:100%">
+      <div class="container">
+        <h2>Adidas</h2>
+        <p></p>
+        
       </div>
     </div>
   </div>
 
   <div class="column">
     <div class="card">
-      <img src="a2.jpg" alt="Mike" style="width:100%">
+      <img src="45.jpg" alt="John" style="width:100%">
       <div class="container">
-        <h2>Mike Ross</h2>
-        <p>mike@example.com</p>
-        <p><button class="button">Contact</button></p>
-      </div>
-    </div>
-  </div>
-
-  <div class="column">
-    <div class="card">
-      <img src="a3.jpg" alt="John" style="width:100%">
-      <div class="container">
-        <h2>John Doe</h2>
-        <p>john@example.com</p>
-        <p><button class="button">Contact</button></p>
+        <h2>Zara</h2>
+       
+       
       </div>
     </div>
   </div>

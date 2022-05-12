@@ -6,66 +6,11 @@
         body{
             margin: 0;
             padding: 0;
-            background: url(bg.jpg);
+            background: url(3.jpg);
             background-size: cover;
             height: 700px;
 
         }
-header {
-    /*border: 2px solid black;*/
-    margin: 0px;
-    /* display: inline-block; */
-
-}
-
-header ul li {
-    display:inline;
-     text-decoration:none;
-     /* border: 2px solid black; */
-
-}
-
-header ul li a {
-    /* display: inline-block; */
-    padding: 20px;
-    margin-left: -20px;
-    text-decoration:none;
-    color:black;
-
-}
-
-.photo {
-    float: right;
-    display:inline;
-    margin-top: -46px;
-    margin-right: 700px;
-    width:44px;
-    
-}
-
-.want {
-    float: right;
-    margin-top: -35px;
-    margin-right: 50px;
-}
-.want input{
-    border-radius: 10px;
-    border-color: black;
-    padding: 2px;
-    padding-left: 10px;
-}
-.want button{
-    background-color: black;
-    color: white;
-    border-radius: 10px;
-    border-color: black;
-}
-
-.slides li img{
-    width: 97%;
-    height: 350px;
-}
-
         *:before,
         *:after {
             -moz-box-sizing: border-box;
@@ -157,21 +102,7 @@ header ul li a {
     </style>
 </head>
 
-<body background="" height="500" width="350">
-  <header>
-        <ul>
-            <li><a href="shiva1.html">Home</a></li>
-            <li><a href="about.html">Agents</a></li>
-            <li><a href="property.html">Property</a></li>
-            <li><a href="contact.html">Contact</a></li>
-            <li><a href="blog.html">Blog</a></li>
-        </ul>
-        <center><img class="photo" src="logo.jpg" alt="error"></center>
-        <div class="want">
-            <input type="search" placeholder="search">
-            <button >search</button>
-        </div>
-    </header>
+<body background="3.jpg" height="500" width="350">
     <div class="wrapper">
         <div class="form-header"><h1>Contact Form<br>___________________________________</h1></div>
         
@@ -199,13 +130,7 @@ header ul li a {
                 <div class="form-field">
                     <input type="radio" name="gender" value="male">Male
                     <input type="radio" name="gender" value="female">Female</div>
-            </div>
-            <div class="form-row">
-                <div class="form-label">Preference:</div>
-                <div class="form-field">
-                    <input type="checkbox" name="">Morning
-                    <input type="checkbox" name="">Evening</div>
-            </div>
+           
             <div class="form-row">
                 <div class="form-label">Message</div>
                 <div class="form-field">
@@ -235,11 +160,7 @@ header ul li a {
                     <input type="url" name="website" />
                 </div>
             </div>
-            <div class="form-row">
-                <div class="form-label">Upload file</div>
-                <div class="form-field">
-                    <input type="file" name="file"> </div>
-            </div>
+          
             <div class="form-row">
                 <div class="form-label"> &nbsp; </div>
                 <div class="form-field" >
